@@ -1,6 +1,6 @@
 👋 Hi, I’m @kelmo974 - or Kellen IRL
 
- 👀 I’m interested in: Uncovering the mechanisms and greater trends that shape the world in various categories. For non-job-related EDA, I tend to gravitate toward
+ 👀 I’m interested in uncovering the mechanisms and greater trends that shape the world in various categories. For non-job-related EDA, I tend to gravitate toward
  subjects in the realms of sports (especially biking and soccer), social sciences, climate change, and gastronomy. I'm always open to being introduced to fresh and 
  exciting themes to be explored employing analytical methods.
 
